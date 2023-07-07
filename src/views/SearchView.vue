@@ -18,7 +18,7 @@
             document.querySelector("#searchBar button:nth-of-type(1)").textContent="Find It!" ;                   
         }
         else{
-            document.querySelector("#searchBar button:nth-of-type(1)").textContent="Find Random!";
+            document.querySelector("#searchBar button:nth-of-type(1)").textContent="Random Pokemon";
         }    
     }
 
@@ -41,7 +41,7 @@
         }); 
 
         document.querySelector("#searchBar input").value="";
-        document.querySelector("#searchBar button:nth-of-type(1)").textContent="Find Random!";
+        document.querySelector("#searchBar button:nth-of-type(1)").textContent="Random Pokemon";
     }
 
     onMounted(() => {
@@ -53,10 +53,10 @@
 <template>
     <section id="searchBar">
         <section id="searchForm">
-            <h3>Look up your Pokemon name or number</h3>
+            <h3>Search your Pokemon by name or number</h3>
             <form>
                 <input type="text" placeholder="Find a Pokemon!" autocomplete="on" size="40" @input="ChangeButton()">
-                <button type="button" @click="Search()">Find Random!</button>
+                <button type="button" @click="Search()">Random Pokemon</button>
                 <button type="reset">Delete</button>
             </form>
         </section>
