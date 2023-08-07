@@ -1,8 +1,8 @@
-# Pokemon Project
+# Pokedex
 
 ## Project context
 
-Project about Api consumption in a Vue.js environment. 
+Project about API consumption in a Vue.js environment. 
 
 ## Project description
 
