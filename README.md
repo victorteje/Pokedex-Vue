@@ -6,7 +6,7 @@ Project about Api consumption in a Vue.js environment.
 
 ## Project description
 
-We've developed one of the most popular online projects about API's use: a Pokemon Pokedex.
+We've developed one of the most popular online projects about API use: a Pokedex.
 
 ### Minimum requirements
 
