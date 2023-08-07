@@ -33,7 +33,7 @@ We've developed one of the most popular online projects about API's use: a Pokem
 # Team
 
 - Carmen Borja (carmenb2020)
-- Luis Álvarez (luisanlvarez246)
+- Luis Álvarez (luisalvarez246)
 - Leolo Flórez (LeoloFlrz)
 - Víctor Tejedor (victorteje)
 - Daniel Crespo (DaniCresRod)
